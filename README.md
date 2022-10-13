@@ -1,7 +1,7 @@
 # Devops-task
 Ansmake Technologies LLP
 ```bash
-1. Create a network interface for Docker and Nginx 
+1. Create a network interface for flask and Nginx Application
    Command => docker network create flask_nginx
 2. Move inside the flask dir and build the image for flask app
    Command => docker build -t flask_app .
